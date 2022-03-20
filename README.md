@@ -1,4 +1,13 @@
+![Ryan Barr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanbarr&title_color=00ccff&icon_color=00ccff&text_color=eee&bg_color=333)
+
 ### Hi there 👋
+
+- 💼 I work at Disney Streaming, helping build Disney+, Star+, ESPN+, and Hulu!
+- 🔭 I’m currently working on personal projects and making small contributions to open source libraries.
+- 💬 Ask me about single page applications, front-end architecture, full-stack development, and growing or leading teams.
+- 📫 How to reach me: hi@spooky.gg
+- 😄 Pronouns: He / Him / His
+- ⚡ Fun fact: I'm a nerd for esports and poker.
 
 <!--
 **ryanbarr/ryanbarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
