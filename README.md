@@ -5,6 +5,7 @@
 While most of my work is locked away in private repositories, that doesn't mean I don't want to help with yours! Ping me and I'm happy to help where I can.
 
 - 💼 I work as an Engineering Manager at Disney Streaming, helping build Disney+, Star+, ESPN+, and Hulu!
+- 🎥 I'm at Partnered Twitch streamer at [twitch.tv/Spooky](https://twitch.tv/spooky)
 - 🔭 I’m currently working on personal projects and making small contributions to open source libraries.
 - 💬 Ask me about single page applications, front-end architecture, full-stack development, and growing or leading teams.
 - 📫 How to reach me: hi@spooky.gg or on Discord at Spooky#0001
