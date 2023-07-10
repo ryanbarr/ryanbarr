@@ -8,7 +8,7 @@ While most of my work is locked away in private repositories, that doesn't mean 
 - 🎥 I'm a Partnered Twitch streamer at [twitch.tv/Spooky](https://twitch.tv/spooky)
 - 🔭 I’m currently working on personal projects and making small contributions to open source libraries.
 - 💬 Ask me about single page applications, front-end architecture, full-stack development, and growing or leading teams.
-- 📫 How to reach me: hi@spooky.gg or on Discord at Spooky#0001
+- 📫 How to reach me: hi@spooky.gg or on Discord at `spooky`
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: I'm a nerd for esports and poker.
 
