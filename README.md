@@ -1,4 +1,4 @@
-![Ryan Barr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanbarr&title_color=00ccff&icon_color=00ccff&text_color=eee&bg_color=333)
+![Ryan Barr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanbarr&title_color=00ccff&icon_color=00ccff&text_color=eee&bg_color=333&show_icons=true)
 
 ### Hi there 👋
 
